@@ -1,0 +1,5 @@
+#!name=Terminal 应用代理规则
+#!desc=为 Terminal 应用设置自定义代理
+
+[Rule]
+PROCESS-NAME,Terminal,🍃 Proxy
